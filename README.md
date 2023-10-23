@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left" margin-top="30px">🛠 Language and tools</h3>
+<h3 align="left" top="30px">🛠 Language and tools</h3>
 
 ###
 
