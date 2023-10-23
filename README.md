@@ -21,7 +21,7 @@
 
 ###
 
-<img align="right" position:relative right="30px" top="0px" height="300" src="https://media2.giphy.com/media/11jacPItBsJDLa/source.gif"  />
+<img align="right" position:relative right="30px" top="-10px" height="300" src="https://media2.giphy.com/media/11jacPItBsJDLa/source.gif"  />
 
 ###
 
