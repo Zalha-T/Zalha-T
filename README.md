@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm a EXTEMELY humble and ambitious programmer from Bosnia and Herzegovina with a HUGE interest in the field of IT and many (hopefully successful) ideas<br><br>- 📚 Currently studying @ FIT Mostar<br>- 🎯 My goal is to make the IT world at least a little bit faster</p>
+<p align="left">I'm a EXTEMELY humble and ambitious programmer from Bosnia and Herzegovina with a HUGE interest in the field of IT and many (hopefully successful) ideas<br><br><br>- 📚 Currently studying @ FIT Mostar<br><br>- 🎯 My goal is to make the IT world at least a little bit faster</p>
 
 ###
 
