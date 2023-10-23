@@ -17,15 +17,19 @@
 
 ###
 
-<p align="left">I'm a EXTEMELY humble and ambitious programmer from Bosnia and Herzegovina with a HUGE interest in the field of IT and many (hopefully successful) ideas<br><br><br>- 📚 Currently studying @ FIT Mostar<br><br>- 🎯 My goal is to make the IT world at least a little bit faster</p>
+<p align="left">I'm a EXTEMELY humble and ambitious programmer from Bosnia and Herzegovina with a HUGE interest in the field of IT and many (hopefully successful) ideas</p>
 
 ###
 
-<img align="right" right="30px"  height="300" src="https://media2.giphy.com/media/11jacPItBsJDLa/source.gif"  />
+<img align="right" height="300" src="https://media2.giphy.com/media/11jacPItBsJDLa/source.gif"  />
 
 ###
 
-<h3 align="left" >🛠 Language and tools</h3>
+<p align="left">- 📚 Currently studying @ FIT Mostar<br><br>- 🎯 My goal is to make the IT world at least a little bit faster</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
