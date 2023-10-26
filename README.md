@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm an EXTEMELY humble and ambitious programmer from Bosnia and Herzegovina with a HUGE interest in the field of IT and many (hopefully successful) ideas</p>
+<p align="left">I'm an EXTREMELY humble and ambitious programmer from Bosnia and Herzegovina with a HUGE interest in the field of IT and many (hopefully successful) ideas</p>
 
 ###
 
